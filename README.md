@@ -39,12 +39,14 @@ A fully completed, responsive web application for **Gallery Café Restaurant**, 
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/b45775f4-4f96-4902-a98e-6cdff3e3f718)
-![image](https://github.com/user-attachments/assets/5fea7257-4ed7-43cd-bfc1-1be700d8f70c)
-![image](https://github.com/user-attachments/assets/30c029b3-f95d-4502-8c5a-da581ae4c509)
-![image](https://github.com/user-attachments/assets/e9f36c61-3f4e-41f2-9835-2dca733490f9)
-![image](https://github.com/user-attachments/assets/611524d3-2ed2-4a82-81d9-306e40621d95)
-![image](https://github.com/user-attachments/assets/20ef4a02-020a-4214-b1ec-0b51eb8771b4)
+![image](https://github.com/user-attachments/assets/600b86a5-328f-47b9-a98d-48094c9478bd)
+![image](https://github.com/user-attachments/assets/02a1022d-a96c-4c8d-8bc0-111a6a214069)
+![image](https://github.com/user-attachments/assets/b0887678-1bb8-4ed5-b5c5-a239ddccf0ce)
+![image](https://github.com/user-attachments/assets/9fa3f3fd-cea9-4cf8-84f7-941c9b5150c1)
+![image](https://github.com/user-attachments/assets/470c53c6-e90e-4c36-b252-5082317becd8)
+![image](https://github.com/user-attachments/assets/963ad45f-e1c2-463d-9723-63522b27f24e)
+![image](https://github.com/user-attachments/assets/9b7188cf-6af6-45e9-9173-9c2c1ae5717e)
+
 
 
 
