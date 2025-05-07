@@ -69,6 +69,6 @@ project/
 
 - **Mohana Dharshan**
 - GitHub: [github.com/ITzDharshan](https://github.com/ITzDharshan)
-- LinkedIn: [linkedin.com/in/mdharshan](www.linkedin.com/in/mdharshan)
+- LinkedIn: [linkedin.com/in/Mohana Dharshan Sandran Kumaran](www.linkedin.com/in/mdharshan)
 
 
