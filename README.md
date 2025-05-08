@@ -67,8 +67,10 @@ project/
 
 ## 🤝 Author
 
-- **Mohana Dharshan**
-- GitHub: [github.com/ITzDharshan](https://github.com/ITzDharshan)
-- LinkedIn: [linkedin.com/in/Mohana Dharshan Sandran Kumaran](www.linkedin.com/in/mdharshan)
+- 👨‍💻 **Mohana Dharshan**
+- 🐙 GitHub: [@ITzDharshan](https://github.com/ITzDharshan)
+- 💼 LinkedIn: [linkedin.com/in/mdharshan](https://www.linkedin.com/in/mdharshan)
+
+---
 
 
