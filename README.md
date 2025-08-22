@@ -67,11 +67,9 @@ project/
 
 ## 🤝 Author
 
-- 👨‍💻 **Mohana Dharshan**
-- 🐙 GitHub: [github.com/MDharshan27](https://github.com/MDharshan27)
-- 💼 LinkedIn: [linkedin.com/in/mdharshan](https://www.linkedin.com/in/mdharshan)
-- 🌐 Portfolio: [mdharshan27.github.io/Portfolio](https://mdharshan27.github.io/Portfolio/)
-
----
+👨‍💻 Mohana Dharshan
+- 🐙 [GitHub](https://github.com/MDharshan27)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mdharshan)
+- 🌐 [Portfolio Website](https://mdharshan27.github.io/Protfolio/)
 
 
