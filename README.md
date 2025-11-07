@@ -73,6 +73,3 @@ project/
 - 🌐 [Portfolio Website](https://mdharshan27.github.io/Protfolio/)
 
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View%20Repository-black?logo=github)](https://github.com/MDharshan27/DevGriffins-Books.git)
-
-
